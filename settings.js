@@ -3,8 +3,8 @@
 
 module.exports = {
     
-    port: 2000, // Port to host website on
-    endpoint: "http://boomlings.com/database/", // Server endpoint to send requests to, must end with a slash
+    port: 8081, // Port to host website on
+    endpoint: "http://rxnationgmd.5v.pl/database/", // Server endpoint to send requests to, must end with a slash
 
     params: {   // Always send this stuff to the servers
         secret: 'Wmfd2893gb7',
